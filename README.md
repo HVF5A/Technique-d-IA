@@ -1,4 +1,4 @@
-<h1 align="center">📊 Machine Learning Practical Work </h1>
+<h1 align="center">📊 Machine Learning Practical Work</h1>
 
 <p align="center">
   <b>From Data Preprocessing to Model Optimization</b>
@@ -24,59 +24,51 @@ This repository contains three practical works (TPs) covering the core steps of 
 - Model training and optimization  
 
 ---
+
 ## 🗂️ Project Structure
+
+-TP1
+-TP2
+-TP5
 
 ---
 
 ## 🔍 TP Details
 
 ### 🔹 TP1 — Data Preprocessing & Exploration
-
 - Data cleaning  
 - Handling missing values  
 - Exploratory Data Analysis (EDA)  
-- Data visualization  
-
-<p align="center">
-  <img src="images/tp1_visualization.png" width="500">
-</p>
+- Visualization  
 
 ---
 
 ### 🔹 TP2 — Feature Selection
-
 - Forward Selection  
 - Backward Elimination  
-
-Goal: improve model performance and reduce overfitting  
-
-<p align="center">
-  <img src="images/tp2_features.png" width="500">
-</p>
+- Feature importance analysis  
 
 ---
 
 ### 🔹 TP5 — Decision Trees & Pruning
-
 - Model training  
 - Overfitting vs underfitting  
 - Cost Complexity Pruning (`ccp_alpha`)  
-
-<p align="center">
-  <img src="images/tp5_demo.gif" width="600">
-</p>
 
 ---
 
 ## ⚙️ Technologies
 
+## ⚙️ Technologies
+
 - Python  
-- Pandas / NumPy  
+- Pandas  
+- NumPy  
 - Scikit-learn  
 - Matplotlib / Seaborn  
 - Jupyter Notebook  
 
-
+---
 
 ## 🚀 Getting Started
 
@@ -85,7 +77,3 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 pip install -r requirements.txt
 jupyter notebook
-
- ---
-
-
